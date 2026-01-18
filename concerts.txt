@@ -1,0 +1,6 @@
+Concert{totalSeats=400, bookedSeats=250} MusicEvent{artist='Band E', durationHours=3, indoor=false} Eveniment{name='Indie Vibes', location='Venue E', price=25.0}
+Concert{totalSeats=300, bookedSeats=150} MusicEvent{artist='Artist B', durationHours=2, indoor=false} Eveniment{name='Jazz Night', location='Club B', price=30.0}
+Concert{totalSeats=500, bookedSeats=100} MusicEvent{artist='Orchestra D', durationHours=2, indoor=true} Eveniment{name='Classical Evening', location='Hall D', price=40.0}
+Concert{totalSeats=1000, bookedSeats=200} MusicEvent{artist='Band A', durationHours=3, indoor=true} Eveniment{name='Rock Fest', location='Stadium A', price=50.0}
+Concert{totalSeats=2000, bookedSeats=530} MusicEvent{artist='Singer C', durationHours=4, indoor=true} Eveniment{name='Pop Gala', location='Arena C', price=70.0}
+Concert{totalSeats=2000, bookedSeats=530} MusicEvent{artist='Singer C', durationHours=4, indoor=true} Eveniment{name='Pop Gala', location='Arena C', price=70.0}
