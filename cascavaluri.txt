@@ -1,0 +1,5 @@
+Cascaval{producator='Napolact', calorii=320, arePachet=true} Aliment{greutate=0.45, dataExpirare='20-06-2024', esteVegan=false} Produs{denumire='Dalia', pret=24.5, cod=101}
+Cascaval{producator='Sibiu', calorii=350, arePachet=true} Aliment{greutate=1.0, dataExpirare='15-08-2024', esteVegan=false} Produs{denumire='Afumat Superior', pret=55.99, cod=102}
+Cascaval{producator='VioLife', calorii=250, arePachet=true} Aliment{greutate=0.2, dataExpirare='10-12-2025', esteVegan=true} Produs{denumire='VioLife Aroma', pret=42.0, cod=103}
+Cascaval{producator='NoName', calorii=340, arePachet=false} Aliment{greutate=0.3, dataExpirare='05-02-2024', esteVegan=false} Produs{denumire='Gouda Vrac', pret=12.5, cod=104}
+Cascaval{producator='Hochland', calorii=310, arePachet=true} Aliment{greutate=0.15, dataExpirare='01-04-2024', esteVegan=false} Produs{denumire='Rucar', pret=9.99, cod=105}
