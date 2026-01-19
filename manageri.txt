@@ -1,0 +1,3 @@
+Manager{listaAngajati=[Angajat{salariu=663356.0, bonus=56.0, isEligibleForPromotion=true}, Angajat{salariu=1000000.0, bonus=76.0, isEligibleForPromotion=false}], departament='Resurse Umane', dimensiuneEchipa=3} Persoana{nume='Maria Ionescu', varsta=35, inaltime=1.68}
+Manager{listaAngajati=[Angajat{salariu=125566.33, bonus=50.4, isEligibleForPromotion=true}], departament='IT', dimensiuneEchipa=10} Persoana{nume='Andrei Popescu', varsta=40, inaltime=1.8}
+Manager{listaAngajati=[], departament='Vanzari', dimensiuneEchipa=25} Persoana{nume='Dan Vasile', varsta=52, inaltime=1.75}
